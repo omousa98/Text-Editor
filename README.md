@@ -51,7 +51,7 @@ THEN I should see a client server folder structure
 ``````
 *Below is the screenshot of the client server folder structure.  The folder structure have been set up or given in this structure.*
 
-![alt text](/assets/images/TE07.png)
+![alt text](./assets/images/TE07.JPG)
 
 
 2.
@@ -65,11 +65,11 @@ THEN I should see a client server folder structure
 ``````
 *Below is the screenshot of the running at npm run start and npm run build* 
 
-![alt text](/assets/images/TE02.png)
+![alt text](./assets/images/TE02.JPG)
 
 *Below is the screenshot of the generated HTML, service worker and a manifest file*
 
-![alt text](/assets/images/TE08.png)
+![alt text](./assets/images/TE08.JPG)
 
 3.
 ``````
@@ -79,7 +79,7 @@ WHEN I open the text editor
 ``````
 *Below is the screenshot of the text editor "Just Another Text Editor (J.A.T.E)"*
 
-![alt text](/assets/images/TE03.png)
+![alt text](./assets/images/TE03.JPG)
 
 4.
 ``````
@@ -121,7 +121,7 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application 
 ````````
-![alt text](/assets/images/TE11.png)
+![alt text](./assets/images/TE11.JPG)
 
 
 ## References
